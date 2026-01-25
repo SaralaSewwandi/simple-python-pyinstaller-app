@@ -1,0 +1,15 @@
+docker-py 
+feedparser 
+nosexcover 
+prometheus_client 
+pycobertura 
+pylint 
+pytest 
+pytest-cov 
+requests 
+setuptools 
+sphinx 
+pyinstaller
+Flask
+gunicorn
+
